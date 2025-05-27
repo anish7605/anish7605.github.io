@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 title: Western Movies
 ---
 
@@ -82,5 +82,3 @@ __*These are some of the finest curated movie picks from the Western genre. Whil
 [![Red Sun](https://img.shields.io/badge/Red_Sun-2E7D32?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/LkngzU9fP18?si=RTw7I4FoMK2z6E2h)
 
 __*P.S. I’ll keep updating the collection as and when something catches my attention, so keep an eye on this page for the most up-to-date listing.*__
-
-
