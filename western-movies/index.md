@@ -80,5 +80,8 @@ __*These are some of the finest curated movie picks from the Western genre. Whil
 [![High Lonesome](https://img.shields.io/badge/High_Lonesome-2E7D32?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1WSh65nNMoo?si=_e2VKnnEStuXCgYK)
 [![For a Few Dollars More](https://img.shields.io/badge/For_a_Few_Dollars_More-C62828?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/DsuFuSxllis?si=NsCcsPVDN5sb7vxs)
 [![Red Sun](https://img.shields.io/badge/Red_Sun-2E7D32?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/LkngzU9fP18?si=RTw7I4FoMK2z6E2h)
+[![Hang 'Em High](https://img.shields.io/badge/Hang_'Em_High-8D4E85?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/placeholder-hang-em-high)
+[![The Big Country](https://img.shields.io/badge/The_Big_Country-1976D2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/placeholder-big-country)
+
 
 __*P.S. I’ll keep updating the collection as and when something catches my attention, so keep an eye on this page for the most up-to-date listing.*__
