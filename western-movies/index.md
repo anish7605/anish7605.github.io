@@ -82,6 +82,10 @@ __*These are some of the finest curated movie picks from the Western genre. Whil
 [![Red Sun](https://img.shields.io/badge/Red_Sun-2E7D32?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/LkngzU9fP18?si=RTw7I4FoMK2z6E2h)
 [![Hang 'Em High](https://img.shields.io/badge/Hang_'Em_High-8D4E85?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/placeholder-hang-em-high)
 [![The Big Country](https://img.shields.io/badge/The_Big_Country-1976D2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/placeholder-big-country)
+[![My Name is Pecos](https://img.shields.io/badge/My_Name_is_Pecos-0288d1?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8DB9FmgawZ0?si=Dh9Z_vl2e06hprDZ)  
+[![Outlaw Women](https://img.shields.io/badge/Outlaw_Women-d32f2f?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/f2baSb6GpP8?si=IweH_sXVq76mDEuF)  
+[![Battle of Greed](https://img.shields.io/badge/Battle_of_Greed-f9a825?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2xaqSxuH5OA)  
+[![Glory Guys](https://img.shields.io/badge/Glory_Guys-6a1b9a?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wOvRfKahWhY?si=62JWPesDf3zB-bSV)
 
 
 __*P.S. I’ll keep updating the collection as and when something catches my attention, so keep an eye on this page for the most up-to-date listing.*__
