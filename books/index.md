@@ -25,6 +25,8 @@ title: Books
 
 ## Book Recommendations
 
+These are AI-recommended books, simply copy-pasted for convenience. I was interested in topics such as __*Capitalism, Individualism, and Objectivism (CIO)*__. So far, I’ve only read Ayn Rand’s Atlas Shrugged—which is 1,168 pages long—in full, years ago even before I immigrated to the States. I’ve also read parts of her other works, such as The Fountainhead and The Virtue of Selfishness. I'm now exploring additional perspectives that either align with or diverge from those themes.
+
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
     <a href="https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s/dp/0061452068" class="badge-link">
         <img src="https://img.shields.io/badge/The_Rational_Optimist_by_Matt_Ridley-C76D3A?style=for-the-badge&logo=book&logoColor=white" alt="The Rational Optimist"/>

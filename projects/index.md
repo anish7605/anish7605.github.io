@@ -7,10 +7,8 @@ title: Projects
 
 ## Key Projects
 
-| **Title**                                       | **Description**                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Project**                                       | **Description**                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Project** | **Description** |
-|-------------|-----------------|
 | [vSwitch](https://github.com/anish7605/vswitch) | A virtual switch implementation for efficient network management. |
 | [Osquery](https://github.com/anish7605/osquery) | Cross-platform tool to query real-time system data using SQL-like syntax. |
 | [Fraud Detection](https://github.com/anish7605/fraud-detection) | Machine learning algorithms to detect and prevent fraudulent transactions. |
@@ -22,7 +20,7 @@ title: Projects
 | [Web Application Firewall](https://github.com/anish7605/web-application-firewall) | Robust WAF implementation protecting against SQL/XSS injection, and bots through input filtering and rate limiting. |
 | [Load Balancer](https://github.com/anish7605/load-balancer) | Multi-threaded C++ load balancer with multiple traffic distribution strategies. |
 | [HTTP Proxy](https://github.com/anish7605/http-proxy) | C++ HTTP proxy server with a thread pool for concurrent request handling. |
-| [Snort Lab](https://github.com/anish7605/snort-lab) | A basic IDS built using Snort to monitor and analyze suspicious traffic. |
+| [Bits And Scripts](https://github.com/anish7605/bits-and-scripts) | A collection of utility scripts and tools for various programming tasks and automation. |
 | [Port Scanner](https://github.com/anish7605/port-scanner) | Multi-threaded port scanner supporting all, top, specific, and custom port scans. |
 | [Remote Code Execution (RCE) Server](https://github.com/anish7605/rce-server) | POSIX-based multi-threaded server for executing remote system commands securely. |
 | [macOS Process Injection Detector](https://github.com/anish7605/macos-process-injection-detector) | Detects suspicious `.dylib` injections in macOS using `vmmap`. |
