@@ -20,4 +20,5 @@ title: Learning Resources
 - [Assembly for Windows Primer (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9gza8iek1hKu56dQmMXTR4AcK70Yv0LI)
 - [Exploit Research (YouTube Channel)](https://www.youtube.com/@HakanKaya-pt9gu/videos)
 - [Corelan Cybersecurity Research](https://www.corelan.be/)
+- [AWS Cert Prep](https://www.pluralsight.com/cloud-guru)
 
