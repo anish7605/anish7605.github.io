@@ -3,6 +3,8 @@ layout: default
 title: Projects
 ---
 
+<a href="https://anish7605.github.io/" style="text-decoration: none;">← Back to Home</a>
+
 ## Key Projects
 
 | **Title**                                       | **Description**                                                                                                                                                                                                                                                                                                                                                                                 |

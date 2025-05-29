@@ -3,6 +3,8 @@ layout: default
 title: Job Hunting
 ---
 
+<a href="https://anish7605.github.io/" style="text-decoration: none;">← Back to Home</a>
+
 ## Job Hunting Guide. Just Grok It ⚡
 
 __*List 50 job openings for a mid-level Software Engineer / Software QA role requiring 3+ years of experience or entry-level Security Engineer Role that sponsors H1B visa from top 100 US companies. Provide a link to the relevant job application or the careers page*__

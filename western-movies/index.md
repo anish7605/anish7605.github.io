@@ -3,6 +3,8 @@ layout: default
 title: Western Movies
 ---
 
+<a href="https://anish7605.github.io/" style="text-decoration: none;">← Back to Home</a>
+
 ## Western Movies
 
 These are some of the finest curated Western movies. I haven’t gotten around to watching all of them yet, but I can already tell they're top-notch. Some of them fall into the Spaghetti Western category, meaning they were shot in Europe—mostly in Italy and Spain. This collection should help you get to know the Wild West better and offer insights into American history in general, which in turn can help you acclimate to your new home country more easily. Of course, it is at your sole discretion to distinguish facts from fiction that might question the depiction of certain elements portrayed. Each videos comment section might be helpful that tends to challenge some of the portrayals. Most of the movies are simply pure entertainment and serves as an escapism from the realities of the modern world. Enjoy!

@@ -3,6 +3,7 @@ layout: default
 title: Books
 ---
 
+<a href="https://anish7605.github.io/" style="text-decoration: none;">← Back to Home</a>
 
 <style>
 .badge-link {
@@ -52,8 +53,8 @@ title: Books
     <a href="https://www.amazon.com/Capitalist-Manifesto-Global-Market-World/dp/1838957928" class="badge-link">
         <img src="https://img.shields.io/badge/The_Capitalist_Manifesto_by_Louis_O_Kelso_and_Mortimer_J_Adler-C76D3A?style=for-the-badge&logo=book&logoColor=white" alt="The Capitalist Manifesto"/>
     </a>
-    <a href="https://mises.org/library/moral-basis-individualism" class="badge-link">
-        <img src="https://img.shields.io/badge/The_Moral_Basis_of_Individualism_by_Frank_Chodorov-6D83C7?style=for-the-badge&logo=book&logoColor=white" alt="The Moral Basis of Individualism"/>
+    <a href="https://www.amazon.com/Rise-Fall-Society-Economic-Institutions/dp/1774642182" class="badge-link">
+        <img src="https://img.shields.io/badge/The_Rise_and_Fall_of_Society_by_Frank_Chodorov-6D83C7?style=for-the-badge&logo=book&logoColor=white" alt="The Rise and Fall of Society"/>
     </a>
     <a href="https://www.amazon.com/Road-Serfdom-Documents-Definitive-Collected/dp/0226320553" class="badge-link">
         <img src="https://img.shields.io/badge/The_Road_to_Serfdom_by_Friedrich_Hayek-C76D9A?style=for-the-badge&logo=book&logoColor=white" alt="The Road to Serfdom"/>

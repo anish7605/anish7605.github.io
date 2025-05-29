@@ -3,6 +3,8 @@ layout: default
 title: Learning Resources
 ---
 
+<a href="https://anish7605.github.io/" style="text-decoration: none;">← Back to Home</a>
+
 ## Learning Resources
 
 - [Learn C++](https://www.learncpp.com/)
